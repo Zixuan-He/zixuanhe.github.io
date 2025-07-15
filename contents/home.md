@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Zixuan](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Zixuan-He)
 
 He is currently a Postdoc Fellow in the Center for Quantitative Genetics and Genomics (QGG) at Aarhus University.
 
