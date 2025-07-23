@@ -1,17 +1,17 @@
 
 
-[![Zixuan](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/Zixuan-He)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Postdoc Fellow in the Center for Quantitative Genetics and Genomics (QGG) at Aarhus University.
+He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
 #### Contact
 
-Email: zixuan.he[at]qgg.au.dk
+Email: senli[at]fas.harvard.edu
 
 #### Education
-Ph.D. Agricultural Engineering, Washington State University (WSU), United States, May 2024 \
-B.S. Automation, South China Agricultural University (SCAU), People's Republic of China, June 2019 .
+M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
+B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
 #### Research Interests
-Agricultural Robotics, Remote Sensing, Deep Learning, Artificial Intelligence.
+Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
